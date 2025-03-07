@@ -13,20 +13,6 @@ Me chamo Marilia Sousa, apaixonada por tecnologia, em formação no Curso Técni
         src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"
     />
 </a> 
-    <a href="https://github.com/mariliadesousa?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/mariliadesousa?color=%23E1AD0E&style=for-the-badge&labelColor=C79600&logo=star&label=stars"
-        />
-    </a>
-    <a href="https://github.com/mariliadesousa?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/mariliadesousa?color=rgb(83, 83, 83)&labelColor=black&style=for-the-badge&logo=github&label=Follows&logoColor=white"
-        />
-    </a>
 </p>
 
 ---
